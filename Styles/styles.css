@@ -16,6 +16,90 @@
     color: #824FF1;
 }
 
+.header-Home {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 152px;
+    height: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.header-About {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 152px;
+    height: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+
+.header-Blog {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 152px;
+    height: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.header-Contact{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 152px;
+    height: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.header-Sign{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 152px;
+    height: 64px;
+    background-color: #824FF1;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+}
+
 section{
     display: inline-block;
 }
@@ -46,6 +130,7 @@ section{
     /* or 160% */
    letter-spacing: 0.02em;
    color: #9A9A9A;
+   max-width: 35%;
 }
 
 .main-butt {
@@ -55,7 +140,7 @@ section{
     margin-left: 200px;
     background-color: #824FF1;
     border-radius: 6px;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
